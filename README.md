@@ -1,1 +1,2 @@
-# website_blocker.py
+# Website Blocker
+Daily we visit many websites, for example Facebook, Twitter, LinkedIn, Instagram and so on. Sometimes it kills our valuable time because we don’t have any control above them. In this project we make a website blocker which will help you to save your time and will not distract you during your working time. You can provide a list of websites which you want to block or do not want to visit during your working hours. Also, you have to provide the time period too. It is divided into 2 parts. One is your working hour and another is free time. You can access these websites during your free time.
